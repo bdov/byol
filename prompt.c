@@ -2,7 +2,8 @@
 #include <stdlib.h>
 
 #include <editline/readline.h>
-#include <editline/history.h>
+/* #include <editline/history.h> */
+#include <editline/histedit.h>
 
 int main(int argc, char** argv){
 
